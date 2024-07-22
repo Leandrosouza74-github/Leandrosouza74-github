@@ -8,4 +8,4 @@
 🤖 Machine Learning
 
 #### Work
-👨‍🔬:Radio Frequency Researcher
+👨‍🔬 Radio Frequency Researcher
