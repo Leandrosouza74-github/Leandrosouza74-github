@@ -5,7 +5,7 @@
 
 #### Education
 * 📡|🎓 Wireless Telecommunications Engineer
-* 🤖    IA| Machine Learning
+* 🤖    AI| Machine Learning
 
 #### Work
 * 🛰️    Radio Frequency Researcher
