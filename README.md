@@ -1,4 +1,4 @@
-![Descrição da Imagem](.png)
+![Descrição da Imagem](1655504031224.png)
 ## Hi I'm Leandro Souza 👋
 
 
